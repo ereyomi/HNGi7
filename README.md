@@ -1,2 +1,2 @@
 # HNGi7
-my first task
+HNGi7 readme commit
